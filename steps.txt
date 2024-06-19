@@ -1,0 +1,5 @@
+1. Counter collection (_id:"cartItemId", value:0)
+2. While adding cart items, increament the counter and then use counter value 
+as id to cartitem document.
+
+DB_URL = mongodb+srv://19amartyasen:Amartyasen@19@cluster0.skjxmqr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/ecomdb
